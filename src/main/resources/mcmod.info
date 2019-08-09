@@ -1,0 +1,16 @@
+[
+{
+  "modid": "craftingsharp",
+  "name": "Crafting#",
+  "description": "I have bad code btw who reads this\ndescription gang rise up",
+  "version": "0.0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["prodzpod"],
+  "credits": "ABO/Halcyon crew, you guys are epic",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
